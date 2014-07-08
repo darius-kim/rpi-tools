@@ -1,0 +1,3 @@
+[submodule "cross-compile-tools"]
+	path = cross-compile-tools
+	url = https://github.com/darius-kim/cross-compile-tools.git
